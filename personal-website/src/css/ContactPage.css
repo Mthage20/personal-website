@@ -1,0 +1,32 @@
+.contact-page {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #0c0c2c;
+    color: #00ffff;
+}
+
+.contact-page h2 {
+    text-shadow: 0 0 10px #00ffff;
+}
+
+.contact-page ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-page li {
+    margin: 10px 0;
+}
+
+.contact-page a {
+    color: #ff99cc;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 0 0 5px #ff99cc;
+    transition: color 0.3s ease;
+}
+
+.contact-page a:hover {
+    color: #00ffff;
+    text-shadow: 0 0 8px #00ffff;
+}

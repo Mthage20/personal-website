@@ -1,0 +1,29 @@
+.about-page {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #0c0c2c;
+    color: #00ffff;
+}
+
+.about-page h2 {
+    margin-bottom: 10px;
+    font-size: 2rem;
+    text-shadow: 0 0 10px #00ffff;
+}
+
+.about-page p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: #ffffff;
+}
+
+.about-page ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.about-page li {
+    margin: 5px 0;
+    color: #ff99cc;
+    text-shadow: 0 0 5px #ff99cc;
+}
