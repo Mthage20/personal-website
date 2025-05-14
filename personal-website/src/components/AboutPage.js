@@ -13,7 +13,6 @@ export default function AboutPage() {
             <ul>
                 <li>JavaScript (React, Node.js)</li>
                 <li>HTML & CSS (Sass, Tailwind)</li>
-                <li>RESTful APIs</li>
                 <li>Version Control (Git, GitHub)</li>
             </ul>
         </div>

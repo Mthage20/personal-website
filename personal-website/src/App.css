@@ -8,6 +8,7 @@
 
 /* Each section takes full height of viewport */
 .section {
+  box-sizing: border-box;
   scroll-snap-align: start;
   height: 100vh;
   display: flex;
@@ -15,6 +16,7 @@
   align-items: center;
   padding: 40px 20px;
 }
+
 
 /* Optional: smooth transitions with fading or scaling */
 .section-inner {
